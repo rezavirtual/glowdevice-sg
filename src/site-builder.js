@@ -388,8 +388,8 @@ header.ergo-header {
 
 .card-media-wrapper {
   position: relative;
-  height: 250px;
-  background: #fbfbfd;
+  height: 270px;
+  background: #ffffff;
   overflow: hidden;
   border-bottom: 1px solid var(--ergo-border-light);
   display: flex;
@@ -397,16 +397,30 @@ header.ergo-header {
   justify-content: center;
 }
 
-.card-img {
+.card-media-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 100%;
   height: 100%;
+  padding: 42px 18px 16px 18px;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.card-img {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
   object-fit: contain;
-  padding: 16px;
-  transition: transform 0.3s ease;
+  margin: auto;
+  display: block;
+  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
 .ergo-card:hover .card-img {
-  transform: scale(1.03);
+  transform: scale(1.05);
 }
 
 .card-brand-badge {
@@ -621,18 +635,27 @@ footer.ergo-footer {
 }
 
 .detail-gallery {
-  background: #fbfbfd;
+  background: #ffffff;
   border: 1px solid var(--ergo-border);
   border-radius: 20px;
-  padding: 30px;
+  padding: 30px 20px;
   text-align: center;
   margin-bottom: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 340px;
+  box-sizing: border-box;
 }
 
 .detail-img {
   max-width: 100%;
   max-height: 420px;
+  width: auto;
+  height: auto;
   object-fit: contain;
+  margin: 0 auto;
+  display: block;
 }
 
 .sticky-buy-box {
@@ -691,6 +714,22 @@ footer.ergo-footer {
   .product-detail-layout { grid-template-columns: 1fr; }
   .hero-title { font-size: 2.2rem; }
   .product-grid { grid-template-columns: 1fr; }
+  .card-media-wrapper {
+    height: 240px;
+  }
+  .card-media-link {
+    padding: 38px 14px 12px 14px;
+  }
+  .card-img {
+    max-height: 185px;
+  }
+  .detail-gallery {
+    padding: 20px 14px;
+    min-height: 260px;
+  }
+  .detail-img {
+    max-height: 280px;
+  }
   .mobile-sticky-cta {
     display: flex;
     position: fixed;
@@ -704,6 +743,25 @@ footer.ergo-footer {
     align-items: center;
     justify-content: space-between;
     z-index: 999;
+  }
+}
+
+@media (max-width: 480px) {
+  .card-media-wrapper {
+    height: 220px;
+  }
+  .card-media-link {
+    padding: 36px 10px 10px 10px;
+  }
+  .card-img {
+    max-height: 170px;
+  }
+  .detail-gallery {
+    min-height: 230px;
+    padding: 16px 10px;
+  }
+  .detail-img {
+    max-height: 230px;
   }
 }
 `;
@@ -721,7 +779,7 @@ footer.ergo-footer {
         <span class="card-tier-pill ${p.isHighTicket ? 'tier-anchor' : 'tier-trigger'}">
           ${p.isHighTicket ? 'Premium Pick' : 'Popular Pick'}
         </span>
-        <a href="${detailLink}">
+        <a href="${detailLink}" class="card-media-link">
           <img src="${imgSrc}" alt="${p.title}" class="card-img" loading="lazy" onerror="this.src='${p.officialImageUrl}'">
         </a>
       </div>

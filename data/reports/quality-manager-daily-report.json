@@ -1,0 +1,124 @@
+{
+  "auditDate": "2026-11-04T01:08:07.461Z",
+  "storeName": "GlowDevice-SG",
+  "catalogSize": 14,
+  "passedCount": 14,
+  "brokenLinks": 0,
+  "missingImages": 0,
+  "badTags": 0,
+  "passRate": "100.0%",
+  "items": [
+    {
+      "asin": "B0GVSBV7V9",
+      "title": "Pro 25J Triple-Pulse Sapphire Ice-Cooling IPL Laser Hair Removal Handset",
+      "priceSgd": 280.83,
+      "linkOk": true,
+      "tagOk": true,
+      "imgExists": true
+    },
+    {
+      "asin": "B0BBB76WYQ",
+      "title": "7-Color Medical-Grade LED Light Therapy Face & Neck Rejuvenation Mask",
+      "priceSgd": 252.75,
+      "linkOk": true,
+      "tagOk": true,
+      "imgExists": true
+    },
+    {
+      "asin": "B0BQ5W17CC",
+      "title": "Wireless Infrared & Red LED Light Therapy Skin Rejuvenation Face Mask",
+      "priceSgd": 223.28,
+      "linkOk": true,
+      "tagOk": true,
+      "imgExists": true
+    },
+    {
+      "asin": "B0DQSK8Y52",
+      "title": "Flexible Silicone Red & Blue Light Therapy Anti-Wrinkle Facial Mask",
+      "priceSgd": 185.48,
+      "linkOk": true,
+      "tagOk": true,
+      "imgExists": true
+    },
+    {
+      "asin": "B0GYR746MG",
+      "title": "Sapphire Ice-Cooling Permanent IPL Laser Hair Removal Device (24J Pro)",
+      "priceSgd": 140.41,
+      "linkOk": true,
+      "tagOk": true,
+      "imgExists": true
+    },
+    {
+      "asin": "B0CSSRJCCZ",
+      "title": "Smart Sapphire Ice-Cooling Permanent IPL Epilator for Women & Men",
+      "priceSgd": 136.2,
+      "linkOk": true,
+      "tagOk": true,
+      "imgExists": true
+    },
+    {
+      "asin": "B0GXYZGQ93",
+      "title": "110,000 RPM High-Speed Ionic Hair Dryer with Intelligent Heat Control",
+      "priceSgd": 104.32,
+      "linkOk": true,
+      "tagOk": true,
+      "imgExists": true
+    },
+    {
+      "asin": "B0C8KHTD16",
+      "title": "Cordless Power Flosser 3000 with Quad Stream Water Technology",
+      "priceSgd": 98.24,
+      "linkOk": true,
+      "tagOk": true,
+      "imgExists": true
+    },
+    {
+      "asin": "B0C34WWGXP",
+      "title": "Blow Dry & Style 1000W Rotating Heated Ceramic Air Styler",
+      "priceSgd": 95.7,
+      "linkOk": true,
+      "tagOk": true,
+      "imgExists": true
+    },
+    {
+      "asin": "B0GG8QWYLT",
+      "title": "Compact Painless At-Home IPL Hair Removal Handset for Face & Body",
+      "priceSgd": 73.99,
+      "linkOk": true,
+      "tagOk": true,
+      "imgExists": true
+    },
+    {
+      "asin": "B07FSBH6XY",
+      "title": "Heated Anti-Frizz Ceramic Hair Straightening Brush (BHH880)",
+      "priceSgd": 49.89,
+      "linkOk": true,
+      "tagOk": true,
+      "imgExists": true
+    },
+    {
+      "asin": "B0CNZFNH2G",
+      "title": "Cordless Pulse 3100 Rechargeable Portable Dental Water Flosser",
+      "priceSgd": 46.37,
+      "linkOk": true,
+      "tagOk": true,
+      "imgExists": true
+    },
+    {
+      "asin": "B0CBFLQF9J",
+      "title": "Sonic Waterproof Silicone Facial Cleansing Brush & Thermal Massager",
+      "priceSgd": 43.67,
+      "linkOk": true,
+      "tagOk": true,
+      "imgExists": true
+    },
+    {
+      "asin": "B08JSMR854",
+      "title": "3-in-1 Waterproof Sonic Facial Cleansing & Exfoliating Brush System",
+      "priceSgd": 36.62,
+      "linkOk": true,
+      "tagOk": true,
+      "imgExists": true
+    }
+  ]
+}
