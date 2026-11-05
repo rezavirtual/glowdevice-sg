@@ -61,7 +61,7 @@ export const CONFIG = {
   site: {
     name: 'GlowDevice SG',
     tagline: 'Singapore’s Premier Smart Beauty & Personal Care Tech Authority',
-    url: 'https://glowdevice-sg.netlify.app',
+    url: 'https://glow.auraequip.com',
     locale: 'en-SG',
     contactEmail: 'rezavirtual@gmail.com',
     defaultTag: 'pettechsg-22'

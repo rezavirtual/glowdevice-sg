@@ -820,7 +820,7 @@ footer.ergo-footer {
     "@context": "https://schema.org",
     "@type": "WebSite",
     "name": "GlowDevice SG",
-    "url": "https://glowdevice-sg.netlify.app",
+    "url": "https://glow.auraequip.com",
     "description": "Singapore's Premier Smart Beauty & Personal Care Tech Authority",
     "inLanguage": "en-SG"
   }
