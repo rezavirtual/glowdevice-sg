@@ -174,7 +174,7 @@
     "category": "IPL Laser Hair Removal",
     "categorySlug": "laser-ipl",
     "priceSgd": 140.41,
-    "affiliateUrl": "https://www.amazon.sg/dp/B0GYR746MG/?tag=pettechsg-22&linkCode=ogi&th=1&psc=1",
+    "affiliateUrl": "https://www.amazon.sg/s?k=SilkPro%20Sapphire%20IPL%20Laser%20Hair%20Removal&tag=pettechsg-22&linkCode=ogi",
     "imageUrl": "https://m.media-amazon.com/images/I/615e1ACUTtL._AC_SL1500_.jpg",
     "imageFile": "b0gyr746mg.jpg",
     "singaporeSpecs": "24J salon output with continuous ice-cooling head, 5 energy intensity levels, precision magnetic bikini cap, safe for Singapore tropical skin tones.",
@@ -207,7 +207,7 @@
     "commissionPerSaleSgd": 14.04,
     "effectiveCv": 0.045,
     "expectedYieldPer100Clicks": 63.18,
-    "inStock": true
+    "inStock": false
   },
   {
     "asin": "B0CSSRJCCZ",
@@ -216,7 +216,7 @@
     "category": "IPL Laser Hair Removal",
     "categorySlug": "laser-ipl",
     "priceSgd": 136.2,
-    "affiliateUrl": "https://www.amazon.sg/s?k=LUBEX%20Beauty%20IPL%20Laser%20Hair%20Removal&tag=pettechsg-22&linkCode=ogi",
+    "affiliateUrl": "https://www.amazon.sg/dp/B0CSSRJCCZ/?tag=pettechsg-22&linkCode=ogi&th=1&psc=1",
     "imageUrl": "https://m.media-amazon.com/images/I/71vyFScfD+L._AC_SL1500_.jpg",
     "imageFile": "b0cssrjccz.jpg",
     "singaporeSpecs": "Integrated 50°F active peltier cooling, automatic continuous gliding flash, smart skin sensor lock, UK/Singapore 3-pin plug compatible.",
@@ -249,7 +249,7 @@
     "commissionPerSaleSgd": 13.62,
     "effectiveCv": 0.045,
     "expectedYieldPer100Clicks": 61.29,
-    "inStock": false
+    "inStock": true
   },
   {
     "asin": "B0GXYZGQ93",
