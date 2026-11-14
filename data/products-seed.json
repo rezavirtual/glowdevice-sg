@@ -216,7 +216,7 @@
     "category": "IPL Laser Hair Removal",
     "categorySlug": "laser-ipl",
     "priceSgd": 136.2,
-    "affiliateUrl": "https://www.amazon.sg/s?k=LUBEX%20Beauty%20IPL%20Laser%20Hair%20Removal&tag=pettechsg-22&linkCode=ogi",
+    "affiliateUrl": "https://www.amazon.sg/dp/B0CSSRJCCZ/?tag=pettechsg-22&linkCode=ogi&th=1&psc=1",
     "imageUrl": "https://m.media-amazon.com/images/I/71vyFScfD+L._AC_SL1500_.jpg",
     "imageFile": "b0cssrjccz.jpg",
     "singaporeSpecs": "Integrated 50°F active peltier cooling, automatic continuous gliding flash, smart skin sensor lock, UK/Singapore 3-pin plug compatible.",
@@ -249,7 +249,7 @@
     "commissionPerSaleSgd": 13.62,
     "effectiveCv": 0.045,
     "expectedYieldPer100Clicks": 61.29,
-    "inStock": false
+    "inStock": true
   },
   {
     "asin": "B0GXYZGQ93",
@@ -468,7 +468,7 @@
     "category": "Skincare Tech & Oral Care",
     "categorySlug": "skincare-tech",
     "priceSgd": 46.37,
-    "affiliateUrl": "https://www.amazon.sg/s?k=Waterpik%20Skincare%20Tech%20%26%20Oral%20Care&tag=pettechsg-22&linkCode=ogi",
+    "affiliateUrl": "https://www.amazon.sg/dp/B0CNZFNH2G/?tag=pettechsg-22&linkCode=ogi&th=1&psc=1",
     "imageUrl": "https://m.media-amazon.com/images/I/71idFcbTR-L._AC_SL1500_.jpg",
     "imageFile": "b0cnzfnh2g.jpg",
     "singaporeSpecs": "45-second reservoir capacity, 2 pressure modes, magnetic USB charging, lightweight waterproof casing for Singapore compact bathrooms.",
@@ -501,7 +501,7 @@
     "commissionPerSaleSgd": 4.64,
     "effectiveCv": 0.085,
     "expectedYieldPer100Clicks": 39.44,
-    "inStock": false
+    "inStock": true
   },
   {
     "asin": "B0CBFLQF9J",
@@ -552,7 +552,7 @@
     "category": "Skincare Tech & Oral Care",
     "categorySlug": "skincare-tech",
     "priceSgd": 36.62,
-    "affiliateUrl": "https://www.amazon.sg/dp/B08JSMR854/?tag=pettechsg-22&linkCode=ogi&th=1&psc=1",
+    "affiliateUrl": "https://www.amazon.sg/s?k=TOUCHBeauty%20Skincare%20Tech%20%26%20Oral%20Care&tag=pettechsg-22&linkCode=ogi",
     "imageUrl": "https://m.media-amazon.com/images/I/61XmVHoMo7L._AC_SL1300_.jpg",
     "imageFile": "b08jsmr854.jpg",
     "singaporeSpecs": "3 interchangeable brush heads (silicone, ultra-soft, exfoliating), 360° oscillation, protective travel case, IPX6 water-resistant.",
@@ -585,6 +585,6 @@
     "commissionPerSaleSgd": 3.66,
     "effectiveCv": 0.085,
     "expectedYieldPer100Clicks": 31.11,
-    "inStock": true
+    "inStock": false
   }
 ]
