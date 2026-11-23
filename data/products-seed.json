@@ -48,7 +48,7 @@
     "category": "LED Facial Devices",
     "categorySlug": "led-therapy",
     "priceSgd": 252.75,
-    "affiliateUrl": "https://www.amazon.sg/dp/B0BBB76WYQ/?tag=pettechsg-22&linkCode=ogi&th=1&psc=1",
+    "affiliateUrl": "https://www.amazon.sg/s?k=Nourished%20Bodynskin%20LED%20Facial%20Devices&tag=pettechsg-22&linkCode=ogi",
     "imageUrl": "https://m.media-amazon.com/images/I/71j2ReePKKL._AC_SL1500_.jpg",
     "imageFile": "b0bbb76wyq.jpg",
     "singaporeSpecs": "Dual face + neck coverage, 192 high-density LEDs, 630nm red & 470nm blue wavelengths, FDA-cleared silicon eye shields for tropical skincare routines.",
@@ -81,7 +81,7 @@
     "commissionPerSaleSgd": 30.33,
     "effectiveCv": 0.045,
     "expectedYieldPer100Clicks": 136.48,
-    "inStock": true
+    "inStock": false
   },
   {
     "asin": "B0BQ5W17CC",
